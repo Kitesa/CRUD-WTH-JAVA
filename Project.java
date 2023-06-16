@@ -1009,7 +1009,7 @@ class Operation{
 
 public class Project{
 	public static void main(String[] args) {
-		System.out.println("WELCOME TO DU CET STUDENT AND EMPLOYEE INFO MANAGEMENT SYSTEM");
+		System.out.println("SIMPLE STUDENT AND EMPLOYEE INFO MANAGEMENT SYSTEM");
 		Operation start_service = new Operation();
 		start_service.printLine();
 		start_service.StartUpMessage();
